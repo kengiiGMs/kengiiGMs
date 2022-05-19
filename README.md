@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
   <div>
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KengiiGMs&layout=compact">
-    https://github.com/KengiiGMs/github-readme-stats
+    <img height="180px" src="https://github.com/KengiiGMs/github-readme-stats">
   </div>
