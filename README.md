@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <div>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=KengiiGMs&show_icons=true&theme=radical">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KengiiGMs&layout=compact">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=KengiiGMs&show_icons=true&theme=algolia">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KengiiGMs&layout=compact&theme=algolia">
     
   </div>
