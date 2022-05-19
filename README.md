@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/kengiiGMs/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kengiiGMs&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/kengiiGMs/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kengiiGMs&repo=kengiiGMs" />
+</a>
