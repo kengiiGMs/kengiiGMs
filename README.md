@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <div>
-    https://github-readme-stats.vercel.app/api/top-langs/?username=KengiiGMs&layout=compact
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KengiiGMs&layout=compact">
     https://github.com/KengiiGMs/github-readme-stats
   </div>
