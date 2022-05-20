@@ -16,5 +16,8 @@
         <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
         <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
        </div>
+       <div>
+         ![Snake animation](https://github.com/kengiiGMs/kengiiGMs/blob/output/github-contribution-grid-snake.svg)
+        </div>
           
  
