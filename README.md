@@ -24,7 +24,7 @@
    <br/>
    <br/>
    
-   <img src="img/bannerZoro.jpg" width="300" align="right" />
+   <img src="img/bannerZoro.jpg" width="250" align="right" />
 
 
    <br/>
