@@ -1,6 +1,8 @@
 ## 
 <div>
    
+   <img src="img/IconZoroB.png" width="250" align="right" />
+   <br/>
    <br/>
    
    <div align="start">
