@@ -1,15 +1,14 @@
 ## 
 <div>
-
-   <img src="img/IconZoroB.png" width="300" align="right" />
    
    <br/>
    
    <div align="start">
-   <img src="img/AboutMeZoro.png" width="400"/>
+   <img src="img/AboutMeZoro.png" width="500"/>
    </div>
    
    <br/>
+   
    
    <div>
    
@@ -23,10 +22,11 @@
 
    <br/>
    <br/>
+
    
-   <img src="img/bannerZoro.jpg" width="250" align="right" />
-
-
+   <div align="center">
+      <img src="img/bannerZoro.jpg" width="250" align="right" />
+   </div>
    <br/>
    
    <div align="start">
