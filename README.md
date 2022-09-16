@@ -40,7 +40,7 @@
   
   
    
-* 📗 [***kengiiGMs/GeekStore***](https://github.com/kengiiGMs/GeekStore.gito) <br/>
+* 📗 [***kengiiGMs/GeekStore***](https://github.com/kengiiGMs/GeekStore.git) <br/>
  Tela de Inicio (layout), realizado em Flutter
  
 
@@ -62,7 +62,14 @@
  ![Snake animation](https://github.com/KengiiGMs/KengiiGMs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
 </div>
+
+
+<p align="center">
+   <img src="img/zoro.gif" align="center"><br/>
+   <sub> “Somente aqueles que sofreram por muito tempo conseguem ver luz através das sombras.” – Roronoa Zoro</sub>
+</p>
 
 
 
