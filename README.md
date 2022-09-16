@@ -32,7 +32,7 @@
    <br/>
    
    <div align="start">
-      <img src="img/RepositoriesZoro.png" width="400"/>
+      <img src="img/RepositoriesZoro.png" width="500"/>
    </div>
   
   </br> 
