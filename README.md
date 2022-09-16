@@ -6,7 +6,7 @@
    <br/>
    
    <div align="start">
-   <img src="img/AboutMeZoro.png" width="500"/>
+   <img src="img/AboutMeZoro.png" width="400"/>
    </div>
    
    <br/>
@@ -30,7 +30,7 @@
    <br/>
    
    <div align="start">
-      <img src="img/RepositoriesZoro.png" width="500"/>
+      <img src="img/RepositoriesZoro.png" width="400"/>
    </div>
   
   </br> 
@@ -45,8 +45,8 @@
 </br>
   
 <div> 
-   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=KengiiGMs&show_icons=true&theme=algolia">
-   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KengiiGMs&layout=compact&theme=algolia">  
+   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=KengiiGMs&show_icons=true&theme=algolia">
+   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KengiiGMs&layout=compact&theme=algolia">  
 </div>
 <div > 
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
