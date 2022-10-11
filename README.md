@@ -42,6 +42,8 @@
    
 * 📗 [***kengiiGMs/GeekStore***](https://github.com/kengiiGMs/GeekStore.git) <br/>
  Tela de Inicio (layout), realizado em Flutter
+* 📗 [***kengiiGMs/FukotoMusic***](https://github.com/kengiiGMs/FukotoMusic) <br/>
+ Streaming de Música de Anime
  
 
 </br>
