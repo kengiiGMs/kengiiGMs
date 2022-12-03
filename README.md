@@ -44,8 +44,11 @@
  Tela de Inicio (layout), realizado em Flutter
 * 📗 [***kengiiGMs/FukotoMusic***](https://github.com/kengiiGMs/FukotoMusic) <br/>
  Streaming de Música de Anime
- * 📗 [***kengiiGMs/SafeAnime***](https://github.com/kengiiGMs/SafeAnime) <br/>
+* 📗 [***kengiiGMs/SafeAnime***](https://github.com/kengiiGMs/SafeAnime) <br/>
  Site básico utilizando HTML e CSS
+* 📗 [***kengiiGMs/MangaTo***](https://github.com/kengiiGMs/MangaTo) <br/>
+ Biblioteca e Loja de Mangás
+ 
  
 
 </br>
