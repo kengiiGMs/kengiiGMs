@@ -48,6 +48,8 @@
  Site básico utilizando HTML e CSS
 * 📗 [***kengiiGMs/MangaTo***](https://github.com/kengiiGMs/MangaTo) <br/>
  Biblioteca e Loja de Mangás
+* 📗 [***kengiiGMs/AnimeDash***](https://github.com/kengiiGMs/animeDash) <br/>
+ Consumindo uma API com HTML e JavaScript
  
  
 
