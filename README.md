@@ -18,7 +18,7 @@
 
 - Live: **São Bernando do Campo (SP)**
 
-- Studying: **Systems Development (ETEC)**
+- Studying: **Cross-Platform Software Development (FATEC)**
 
    </div>
 
@@ -50,9 +50,9 @@
  Biblioteca e Loja de Mangás
 * 📗 [***kengiiGMs/AnimeDash***](https://github.com/kengiiGMs/animeDash) <br/>
  Consumindo uma API com HTML e JavaScript
+* 📗 [***kengiiGMs/ReactFilmes***](https://github.com/kengiiGMs/ReactFilmes) <br/>
+ Consumindo uma API com React
  
- 
-
 </br>
   
 <div> 
