@@ -1,25 +1,4 @@
-## 
-<img src="https://user-images.githubusercontent.com/80048095/222851948-5fd136a3-9b76-4c44-a07c-8fc7e3956aff.png" width="250" align="left" />
-<br>
-<br>
-<img src="https://img.shields.io/static/v1?label=Perfil&message=KengiiGMs&color=yellow&style=for-the-badge&logo=GitHub">
 
-<p>
-
-   
-
-   Nome: **Kaiki Kenji** 
-
-   Cidade: **São Bernando do Campo (SP)**
-
-   Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
-   
-</p>
-
-<hr>
-
-<div>
-   
    <br/>
    <br/>
    
