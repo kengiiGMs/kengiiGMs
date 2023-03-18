@@ -1,9 +1,23 @@
+## 
+<img src="https://user-images.githubusercontent.com/80048095/222851948-5fd136a3-9b76-4c44-a07c-8fc7e3956aff.png" width="250" align="left"/>
+<br>
+<br>
+<img src="https://img.shields.io/static/v1?label=Perfil&message=KengiiGMs&color=yellow&style=for-the-badge&logo=Github">
+<p>
 
+   Nome: **Kaiki Kenji**
+   
+   Cidade: **São Bernardo do Campo (SP)**
+   
+   Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
+   
+</p>
+   <hr>
    <br/>
    <br/>
    
    <div align="center">
-      <img src="https://user-images.githubusercontent.com/80048095/222839086-64094735-866b-498a-a782-db3c137941b1.png" width="750" />
+      <img src="https://user-images.githubusercontent.com/80048095/222839086-64094735-866b-498a-a782-db3c137941b1.png"         width="750" />
    </div>
 
    </br> 
