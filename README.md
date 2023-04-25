@@ -44,7 +44,7 @@
    </div>
 
    <div align="center" > 
-       <img height="40px" src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js,jquery,php,mysql,java,cs,flutter" />
+       <img height="40px" src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js,jquery,ts,php,mysql,java,cs,python,flutter" />
 
    ![Snake animation](https://github.com/KengiiGMs/KengiiGMs/blob/output/github-contribution-grid-snake.svg)
 
