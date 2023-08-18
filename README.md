@@ -1,9 +1,9 @@
 ##
 
-<img src="img/ShikimoriStyle/IconShikimori.png" width="250" align="left"/>
+<img src="img/ZoroStyle2/icon2.png" width="250" align="left"/>
 <br>
 <br>
-<img src="https://img.shields.io/static/v1?label=Perfil&message=KengiiGMs&color=pink&style=for-the-badge&logo=Github">
+<img src="https://img.shields.io/static/v1?label=Perfil&message=KengiiGMs&color=springgreen&style=for-the-badge&logo=Github">
 <p>
 
 Nome: **Kaiki Kenji**
@@ -18,7 +18,7 @@ Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
    <br/>
    
    <div align="center">
-      <img src="img/ShikimoriStyle/BannerShikimori.png"         width="750" />
+      <img src="img/ZoroStyle2/banner2.png"         width="750" />
    </div>
 
    </br> 
@@ -35,6 +35,9 @@ Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
     Consumindo uma API com HTML e JavaScript
    * 📗 [***kengiiGMs/ReactFilmes***](https://github.com/kengiiGMs/ReactFilmes) <br/>
     Consumindo uma API com React
+    * 📗 [***kengiiGMs/Nori_Nook***](https://github.com/kengiiGMs/Nori_Nook) <br/>
+    Sistema de Comandas com React e NodeJS
+
       <hr>
    </br>
 
@@ -53,8 +56,8 @@ Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
 </div>
 
 <p align="center">
-   <img src="img/ShikimoriStyle/GifShikimori.gif" align="center"><br/>
-   <sub><b>Miyako Shikimori - (式守 都古)</b></sub>
+   <img src="img/ZoroStyle2/zoro2.gif" align="center"><br/>
+   <sub><i>Há alguém que devo encontrar novamente. E até esse dia... nem mesmo a própria Morte pode tirar minha vida! - <b>Roronoa Zoro</b></i></sub>
 </p>
 
 ##
