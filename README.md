@@ -1,6 +1,6 @@
 ##
 
-<img src="img/ZoroStyle2/icon2.png" width="250" align="left"/>
+<img src="img/ZoroStyle2/icon.png" width="250" align="left"/>
 <br>
 <br>
 <img src="https://img.shields.io/static/v1?label=Perfil&message=KengiiGMs&color=springgreen&style=for-the-badge&logo=Github">
@@ -18,7 +18,7 @@ Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
    <br/>
    
    <div align="center">
-      <img src="img/ZoroStyle2/banner2.png"         width="750" />
+      <img src="img/ZoroStyle2/banner.png"         width="750" />
    </div>
 
    </br> 
@@ -56,7 +56,7 @@ Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
 </div>
 
 <p align="center">
-   <img src="img/ZoroStyle2/zoro2.gif" align="center"><br/>
+   <img src="img/ZoroStyle2/zoro.gif" align="center"><br/>
    <sub><i>Há alguém que devo encontrar novamente. E até esse dia... nem mesmo a própria Morte pode tirar minha vida! - <b>Roronoa Zoro</b></i></sub>
 </p>
 
