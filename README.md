@@ -1,9 +1,9 @@
 ##
 
-<img src="img/luffyStyle/icon.png" width="250" align="left"/>
+<img src="img/namiStyle/icon.png" width="250" align="left"/>
 <br>
 <br>
-<img src="https://img.shields.io/static/v1?label=Perfil&message=KengiiGMs&color=crimson&style=for-the-badge&logo=Github">
+<img src="https://img.shields.io/static/v1?label=Perfil&message=KengiiGMs&color=orange&style=for-the-badge&logo=Github">
 <p>
 
 Nome: **Kaiki Kenji**
@@ -18,7 +18,7 @@ Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
    <br/>
    
    <div align="center">
-      <img src="img/luffyStyle/banner.png"         width="750" />
+      <img src="img/namiStyle/banner.png"         width="750" />
    </div>
 
    </br> 
@@ -56,8 +56,8 @@ Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
 </div>
 
 <p align="center">
-   <img src="img/luffyStyle/luffy.gif" align="center"><br/>
-   <sub><i>O poder não é determinado pelo seu tamanho, mas pelo tamanho do seu coração e dos seus sonhos! - <b>Monkey D. Luffy</b></i></sub>
+   <img src="img/namiStyle/nami.gif" align="center"><br/>
+   <sub><i>A vida é como um lápis que certamente se esgotará, mas deixará a bela escrita da vida! - <b>Nami</b></i></sub>
 </p>
 
 ##
