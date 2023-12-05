@@ -22,21 +22,19 @@ Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
    </div>
 
    </br> 
-  
-   * 📗 [***kengiiGMs/GeekStore***](https://github.com/kengiiGMs/GeekStore.git) <br/>
-    Tela de Inicio (layout), realizado em Flutter
-   * 📗 [***kengiiGMs/FukotoMusic***](https://github.com/kengiiGMs/FukotoMusic) <br/>
-    Streaming de Música de Anime
+
    * 📗 [***kengiiGMs/SafeAnime***](https://github.com/kengiiGMs/SafeAnime) <br/>
     Site básico utilizando HTML e CSS
-   * 📗 [***kengiiGMs/MangaTo***](https://github.com/kengiiGMs/MangaTo) <br/>
-    Biblioteca e Loja de Mangás
-   * 📗 [***kengiiGMs/AnimeDash***](https://github.com/kengiiGMs/animeDash) <br/>
-    Consumindo uma API com HTML e JavaScript
-   * 📗 [***kengiiGMs/ReactFilmes***](https://github.com/kengiiGMs/ReactFilmes) <br/>
-    Consumindo uma API com React
    * 📗 [***kengiiGMs/Nori_Nook***](https://github.com/kengiiGMs/Nori_Nook) <br/>
     Sistema de Comandas com React e NodeJS
+   * 📗 [***kengiiGMs/FukotoMusic***](https://github.com/kengiiGMs/FukotoMusic) <br/>
+    Streaming de Música de Anime
+   * 📗 [***kengiiGMs/MangaTo***](https://github.com/kengiiGMs/MangaTo) <br/>
+    Biblioteca e Loja de Mangás
+   * 📗 [***kengiiGMs/ReactFilmes***](https://github.com/kengiiGMs/ReactFilmes) <br/>
+    Consumindo uma API com React
+   * 📗 [***kengiiGMs/GeekStore***](https://github.com/kengiiGMs/GeekStore.git) <br/>
+    Tela de Inicio (layout), realizado em Flutter
 
       <hr>
    </br>
@@ -47,7 +45,7 @@ Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
    </div>
 
    <div align="center" > 
-       <img height="40px" src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js,jquery,ts,php,mysql,java,cs,python,flutter" />
+       <img height="40px" src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js,ts,php,mysql,java,cs,python,flutter," />
 
 ![Snake animation](https://github.com/KengiiGMs/KengiiGMs/blob/output/github-contribution-grid-snake.svg)
 
