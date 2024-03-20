@@ -1,9 +1,9 @@
 ##
 
-<img src="img/namiStyle/icon.png" width="250" align="left"/>
+<img src="img/erzaStyle/icon.png" width="250" align="left"/>
 <br>
 <br>
-<img src="https://img.shields.io/static/v1?label=Perfil&message=KengiiGMs&color=orange&style=for-the-badge&logo=Github">
+<img src="https://img.shields.io/static/v1?label=Perfil&message=KengiiGMs&color=red&style=for-the-badge&logo=Github">
 <p>
 
 Nome: **Kaiki Kenji**
@@ -18,7 +18,7 @@ Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
    <br/>
    
    <div align="center">
-      <img src="img/namiStyle/banner.png"         width="750" />
+      <img src="img/erzaStyle/banner.png"         width="750" />
    </div>
 
    </br> 
@@ -45,7 +45,7 @@ Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
    </div>
 
    <div align="center" > 
-       <img height="40px" src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js,ts,php,mysql,java,cs,python,flutter," />
+       <img height="40px" src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js,ts,php,mysql,java,cs,python,flutter,next,spring,tailwind" />
 
 ![Snake animation](https://github.com/KengiiGMs/KengiiGMs/blob/output/github-contribution-grid-snake.svg)
 
@@ -54,8 +54,8 @@ Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
 </div>
 
 <p align="center">
-   <img src="img/namiStyle/nami.gif" align="center"><br/>
-   <sub><i>A vida é como um lápis que certamente se esgotará, mas deixará a bela escrita da vida! - <b>Nami</b></i></sub>
+   <img src="img/erzaStyle/erza.gif" align="center"><br/>
+   <sub><i>Seguir em frente não significa esquecer as coisas. Significa apenas que você tem que aceitar o que aconteceu e continuar vivendo - <b>Erza Scarlet</b></i></sub>
 </p>
 
 ##
