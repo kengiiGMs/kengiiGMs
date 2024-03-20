@@ -1,6 +1,6 @@
 ##
 
-<img src="img/erzaStyle/icon.png" width="250" align="left"/>
+<img src="img/ErzaStyle/icon.png" width="250" align="left"/>
 <br>
 <br>
 <img src="https://img.shields.io/static/v1?label=Perfil&message=KengiiGMs&color=red&style=for-the-badge&logo=Github">
@@ -18,7 +18,7 @@ Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
    <br/>
    
    <div align="center">
-      <img src="img/erzaStyle/banner.png"         width="750" />
+      <img src="img/ErzaStyle/banner.png"         width="750" />
    </div>
 
    </br> 
@@ -54,7 +54,7 @@ Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
 </div>
 
 <p align="center">
-   <img src="img/erzaStyle/erza.gif" align="center"><br/>
+   <img src="img/ErzaStyle/erza.gif" align="center"><br/>
    <sub><i>Seguir em frente não significa esquecer as coisas. Significa apenas que você tem que aceitar o que aconteceu e continuar vivendo - <b>Erza Scarlet</b></i></sub>
 </p>
 
