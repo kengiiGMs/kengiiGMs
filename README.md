@@ -45,7 +45,7 @@ Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
    </div>
 
    <div align="center" > 
-       <img height="40px" src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js,ts,php,mysql,java,cs,python,flutter,next,spring,tailwind" />
+       <img height="40px" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,mysql,java,flutter,nodejs" />
 
 ![Snake animation](https://github.com/KengiiGMs/KengiiGMs/blob/output/github-contribution-grid-snake.svg)
 
