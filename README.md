@@ -10,7 +10,7 @@ Nome: **Kaiki Kenji**
 
 Cidade: **São Bernardo do Campo (SP)**
 
-Estudando: **Desenvolvimento de Software Multiplataforma (FATEC)**
+Formado: **Desenvolvimento de Software Multiplataforma (FATEC)**
 
 </p>
    <hr>
