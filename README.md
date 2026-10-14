@@ -12,6 +12,8 @@ Cidade: **São Bernardo do Campo (SP)**
 
 Formado: **Desenvolvimento de Software Multiplataforma (FATEC)**
 
+Formado: **Desenvolvimento de Sistemas (ETEC)**
+
 </p>
    <hr>
    <br/>
@@ -39,9 +41,10 @@ Formado: **Desenvolvimento de Software Multiplataforma (FATEC)**
       <hr>
    </br>
 
-   <div align="center"> 
-      <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KengiiGMs&show_icons=true&theme=algolia">
-      <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KengiiGMs&layout=compact&theme=algolia">  
+   <div align="center">
+   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=KengiiGMs&show_icons=true&bg_color=111111&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700">
+
+   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KengiiGMs&layout=compact&bg_color=111111&title_color=FFD700&text_color=FFFFFF&border_color=FFD700">
    </div>
 
    <div align="center" > 
