@@ -47,6 +47,8 @@ Formado: **Desenvolvimento de Sistemas (ETEC)**
    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KengiiGMs&layout=compact&bg_color=111111&title_color=FFD700&text_color=FFFFFF&border_color=FFD700">
    </div>
 
+   <br>
+
    <div align="center" > 
        <img height="40px" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,mysql,java,flutter,nodejs" />
 
